@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Fascinate&family=Poppins&family=Preahvihear&family=Work+Sans&display=swap');
+body{
+
+font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+#css{
+  font-variant:small-caps;
+  font-weight:bold;
+  font-style:italic
+  
+}
+p{
+  font-size: 15px;
+ 
+
+}
